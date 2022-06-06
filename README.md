@@ -12,10 +12,10 @@ Total entries :541909
 
 **Procedure:**
 
-1.Importing Libraries
-2. reading and understanding of Dataset
-3. Data Wrangling
-4. Feature Engineering
-5. Feature Scaling
-6. Model building
-7. Data Analysis
+- Importing Libraries	
+- Reading and understanding of Dataset	
+- Data Wrangling
+- Feature Engineering
+- Feature Scaling
+- Model building
+- Data Analysis
